@@ -14,11 +14,47 @@
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>project</title>
+        <link>http://example.org/categories/project/</link>
+        <pubDate>Wed, 16 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>http://example.org/categories/project/</guid>
+        <description></description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>university</title>
+        <link>http://example.org/categories/university/</link>
+        <pubDate>Wed, 16 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>http://example.org/categories/university/</guid>
+        <description></description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>syntax</title>
@@ -63,42 +99,6 @@
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
         <guid>http://example.org/categories/hugo/</guid>
-        <description></description>
-        
-        <dc:creator>Hristo Vuchev</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>http://example.org/categories/diagram/</link>
-        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
-        
-        <guid>http://example.org/categories/diagram/</guid>
-        <description></description>
-        
-        <dc:creator>Hristo Vuchev</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>math</title>
-        <link>http://example.org/categories/math/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
-        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
-        
-        <guid>http://example.org/categories/math/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>

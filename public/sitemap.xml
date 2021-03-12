@@ -14,7 +14,62 @@
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/gef_and_box2d/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/box2d/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/gef/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/project/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/university/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/university/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/university-projects/</loc>
+    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -38,22 +93,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/posts/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
@@ -65,11 +110,6 @@
   <url>
     <loc>http://example.org/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -89,11 +129,6 @@
   
   <url>
     <loc>http://example.org/posts/markdown-syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
@@ -145,96 +180,6 @@
   <url>
     <loc>http://example.org/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/math-typesetting/</loc>
-    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/amoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/bamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/emoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/emoji-support/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/gamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/namoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-chartjs/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-js-sequence-diagrams/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/math/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-mathjax/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-katex/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/test-flowchart/</loc>
-    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url>
   
   <url>

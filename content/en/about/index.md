@@ -1,27 +1,14 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "Description"
 type = "about"
 date = "2019-02-28"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+##### My name is Hristo and I am a final year Computer Games Application Development student at Abertay University. In this website you can find a combination of my Portfolio as well as blog posts I write.
+</br>
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Since a very young age I have been playing video games. The more I played the more interested I became in how they are made and wanted to learn how to make them. This is reason why after graduation High School I enrolled into Abertay University to study Computer Game Application Development. The more I study about games and how they are made the more passionate I become about it. It is my dream job and am constantly working on new side projects to further my skills and knowledge in the industry.
 
 
 
