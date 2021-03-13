@@ -13,7 +13,7 @@ image: /PostImages/object_pool/geoShooter_pooling.png
 tags: 
 - unity
 - mechanic
-- c#
+- c_sharp
 categories:
 - unity
 - personal
