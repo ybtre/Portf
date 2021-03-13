@@ -651,9 +651,9 @@
 
   
     
-    var baseurl = JSON.parse("\"http://example.org\"");
+    var baseurl = JSON.parse("\"https://devpilgrim.com/\"");
     
-    var permalink = JSON.parse("\"http://example.org/archive/\"");
+    var permalink = JSON.parse("\"https://devpilgrim.com/archive/\"");
     
     var langprefix = JSON.parse("\"\"");
     var searchResults = null;
@@ -665,7 +665,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var searchResultPosition = JSON.parse("\"main\"");
+    var searchResultPosition = JSON.parse("\"side\"");
     
     var sectionType = JSON.parse("\"archive\"");
     
@@ -1323,7 +1323,7 @@
 
 
     
-<link rel="alternate" type="application/rss&#43;xml" title="RSS" href="http://example.org/archive/index.xml">
+<link rel="alternate" type="application/rss&#43;xml" title="RSS" href="https://devpilgrim.com/archive/index.xml">
 
 <meta name="description" content="Archive Page" />
 
@@ -1337,7 +1337,7 @@
 
 <meta property="og:site_name" content="My Game Dev Journey">
 <meta property="og:title" content="Archive">
-<meta property="og:url" content="http://example.org/archive/">
+<meta property="og:url" content="https://devpilgrim.com/archive/">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Archive Page">
 
@@ -1350,7 +1350,7 @@
 
 <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 
-<link rel="canonical" href="http://example.org/archive/">
+<link rel="canonical" href="https://devpilgrim.com/archive/">
 
 <link rel="manifest" href="/manifest.json">
 
@@ -1376,24 +1376,48 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "url" : "http://example.org/archive/",
+    "url" : "https://devpilgrim.com/archive/",
     "name": "Archive",
     "description": "Archive Page",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "http://example.org"
+      "@id": "https://devpilgrim.com/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "My Game Dev Journey",
-      "url": "http://example.org"
+      "url": "https://devpilgrim.com/"
     }
   }
 </script>
 
     
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-169214741-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-169214741-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
 
 
 
@@ -1581,16 +1605,6 @@
 </div>
   <div class="navbar__menu">
   
-    <div class="theme">
-  <div class="dropdown">
-    <button class="dropdown-trigger navbar__slide-down navbar-search" aria-label="Search Button" data-ani="true">
-      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
-    </button>
-    <div class="dropdown-content">
-    </div>
-  </div>
-</div>
-  
   
   
 <div class="theme" data-ani="true">
@@ -1714,10 +1728,60 @@
           <span class="archive__meta" data-ani="true">
             
               <span class="archive__type">posts</span>
+              <span class="archive__date">Dec 19</span>
+            
+          </span>
+          <a href="https://devpilgrim.com/posts/asteroids_networked/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Networking with Asteroids</a>        
+        </li>
+        
+        <li class="archive__li" data-dir="ltr">
+          <span class="archive__meta" data-ani="true">
+            
+              <span class="archive__type">posts</span>
+              <span class="archive__date">Dec 19</span>
+            
+          </span>
+          <a href="https://devpilgrim.com/posts/objectpooling/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Object Pooling - Deep Dive</a>        
+        </li>
+        
+        <li class="archive__li" data-dir="ltr">
+          <span class="archive__meta" data-ani="true">
+            
+              <span class="archive__type">posts</span>
+              <span class="archive__date">Dec 18</span>
+            
+          </span>
+          <a href="https://devpilgrim.com/posts/opengl/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">OpenGL Scene</a>        
+        </li>
+        
+        <li class="archive__li" data-dir="ltr">
+          <span class="archive__meta" data-ani="true">
+            
+              <span class="archive__type">posts</span>
+              <span class="archive__date">Dec 18</span>
+            
+          </span>
+          <a href="https://devpilgrim.com/posts/asteroids/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Asteroids</a>        
+        </li>
+        
+        <li class="archive__li" data-dir="ltr">
+          <span class="archive__meta" data-ani="true">
+            
+              <span class="archive__type">posts</span>
+              <span class="archive__date">Dec 17</span>
+            
+          </span>
+          <a href="https://devpilgrim.com/posts/string_searching/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">String Searching - Data Structures and Algorithms</a>        
+        </li>
+        
+        <li class="archive__li" data-dir="ltr">
+          <span class="archive__meta" data-ani="true">
+            
+              <span class="archive__type">posts</span>
               <span class="archive__date">Dec 16</span>
             
           </span>
-          <a href="http://example.org/posts/gef_and_box2d/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">2.5D Game using Box2D and the GEF Framework</a>        
+          <a href="https://devpilgrim.com/posts/gef_and_box2d/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">2.5D Game using Box2D and the GEF Framework</a>        
         </li>
         
         <li class="archive__li" data-dir="ltr">
@@ -1727,7 +1791,7 @@
               <span class="archive__date">Jan 25</span>
             
           </span>
-          <a href="http://example.org/posts/shortcodes/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Shortcodes</a>        
+          <a href="https://devpilgrim.com/posts/shortcodes/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Shortcodes</a>        
         </li>
         
       </ul>
@@ -1742,7 +1806,7 @@
               <span class="archive__date">Dec 20</span>
             
           </span>
-          <a href="http://example.org/posts/markdown-syntax/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Markdown Syntax Guide</a>        
+          <a href="https://devpilgrim.com/posts/markdown-syntax/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Markdown Syntax Guide</a>        
         </li>
         
         <li class="archive__li" data-dir="ltr">
@@ -1752,7 +1816,7 @@
               <span class="archive__date">Dec 19</span>
             
           </span>
-          <a href="http://example.org/posts/rich-content/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Rich Content</a>        
+          <a href="https://devpilgrim.com/posts/rich-content/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Rich Content</a>        
         </li>
         
         <li class="archive__li" data-dir="ltr">
@@ -1762,7 +1826,7 @@
               <span class="archive__date">Dec 18</span>
             
           </span>
-          <a href="http://example.org/posts/syntax-highlight/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Syntax highlighting</a>        
+          <a href="https://devpilgrim.com/posts/syntax-highlight/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Syntax highlighting</a>        
         </li>
         
         <li class="archive__li" data-dir="ltr">
@@ -1772,7 +1836,7 @@
               <span class="archive__date">Oct 31</span>
             
           </span>
-          <a href="http://example.org/gallery/photo/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Photo</a>        
+          <a href="https://devpilgrim.com/gallery/photo/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Photo</a>        
         </li>
         
         <li class="archive__li" data-dir="ltr">
@@ -1782,7 +1846,7 @@
               <span class="archive__date">Oct 31</span>
             
           </span>
-          <a href="http://example.org/gallery/cartoon/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Cartoon</a>        
+          <a href="https://devpilgrim.com/gallery/cartoon/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Cartoon</a>        
         </li>
         
       </ul>

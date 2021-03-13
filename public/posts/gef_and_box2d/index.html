@@ -651,9 +651,9 @@
 
   
     
-    var baseurl = JSON.parse("\"http://example.org\"");
+    var baseurl = JSON.parse("\"https://devpilgrim.com/\"");
     
-    var permalink = JSON.parse("\"http://example.org/posts/gef_and_box2d/\"");
+    var permalink = JSON.parse("\"https://devpilgrim.com/posts/gef_and_box2d/\"");
     
     var langprefix = JSON.parse("\"\"");
     var searchResults = null;
@@ -665,7 +665,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var searchResultPosition = JSON.parse("\"main\"");
+    var searchResultPosition = JSON.parse("\"side\"");
     
     var sectionType = JSON.parse("\"posts\"");
     
@@ -1326,25 +1326,25 @@
 <meta name="description" content="My first experience with Box2D and my last project for Year 2" />
 
 
-<meta name="keywords" content="gef,box2d,university">
+<meta name="keywords" content="gef,box2d,cpp">
 
 <meta name="created" content="2020-12-16T12:00:06&#43;0900">
 <meta name="modified" content="2020-12-16T12:00:06&#43;0900">
 <meta property="article:published_time" content="2020-12-16T12:00:06&#43;0900">
 
 <meta name="author" content="Hristo Vuchev">
-<meta property="article:author" content="http://example.org/posts/gef_and_box2d/@Hristo Vuchev">
+<meta property="article:author" content="https://devpilgrim.com/posts/gef_and_box2d/@Hristo Vuchev">
 
 
 <meta property="og:site_name" content="My Game Dev Journey">
 <meta property="og:title" content="2.5D Game using Box2D and the GEF Framework">
-<meta property="og:url" content="http://example.org/posts/gef_and_box2d/">
+<meta property="og:url" content="https://devpilgrim.com/posts/gef_and_box2d/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="My first experience with Box2D and my last project for Year 2">
 
   
-    <meta property="og:image" content="http://example.org/PostImages/gef.png">
-    <meta property="og:image:url" content="http://example.org/PostImages/gef.png">
+    <meta property="og:image" content="https://devpilgrim.com/PostImages/gef.png">
+    <meta property="og:image:url" content="https://devpilgrim.com/PostImages/gef.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:app:name:iphone" content="My Game Dev Journey">
     <meta property="twitter:title" content="2.5D Game using Box2D and the GEF Framework">
@@ -1360,7 +1360,7 @@
 
 <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 
-<link rel="canonical" href="http://example.org/posts/gef_and_box2d/">
+<link rel="canonical" href="https://devpilgrim.com/posts/gef_and_box2d/">
 
 <link rel="manifest" href="/manifest.json">
 
@@ -1389,29 +1389,53 @@
     "headline": "2.5D Game using Box2D and the GEF Framework",
     "datePublished": "2020-12-16T12:00:06+09:00",
     "dateModified": "2020-12-16T12:00:06+09:00",
-    "url" : "http://example.org/posts/gef_and_box2d/",
+    "url" : "https://devpilgrim.com/posts/gef_and_box2d/",
     "description": "My first experience with Box2D and my last project for Year 2",
-    "keywords": ["gef","box2d","university"],
-    "image" : "http://example.org/PostImages/gef.png",
+    "keywords": ["gef","box2d","cpp"],
+    "image" : "https://devpilgrim.com/PostImages/gef.png",
     "author": {
       "@type": "Person",
       "name": "Hristo Vuchev"
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "http://example.org"
+      "@id": "https://devpilgrim.com/"
     },
     "publisher": {
       "@type": "Organization",
       "name": "My Game Dev Journey",
-      "url": "http://example.org"
+      "url": "https://devpilgrim.com/"
     }
   }
 </script>
 
     
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-169214741-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-169214741-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
 
 
 
@@ -1599,16 +1623,6 @@
 </div>
   <div class="navbar__menu">
   
-    <div class="theme">
-  <div class="dropdown">
-    <button class="dropdown-trigger navbar__slide-down navbar-search" aria-label="Search Button" data-ani="true">
-      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
-    </button>
-    <div class="dropdown-content">
-    </div>
-  </div>
-</div>
-  
   
   
 <div class="theme" data-ani="true">
@@ -1709,14 +1723,14 @@
   
   <li >
     
-      <a href="http://example.org/" class="capitalize">My Game Dev Journey</a>
+      <a href="https://devpilgrim.com/" class="capitalize">My Game Dev Journey</a>
     
   </li>
   
   
   <li >
     
-      <a href="http://example.org/posts/" class="capitalize">Posts</a>
+      <a href="https://devpilgrim.com/posts/" class="capitalize">Posts</a>
     
   </li>
   
@@ -1757,21 +1771,19 @@
   🏷️
   
 
-  <li><a href="http://example.org/tags/gef/" class="single__tag" title="gef">#gef</a></li>
+  <li><a href="https://devpilgrim.com/tags/gef/" class="single__tag" title="gef">#gef</a></li>
 
-  <li><a href="http://example.org/tags/box2d/" class="single__tag" title="box2d">#box2d</a></li>
+  <li><a href="https://devpilgrim.com/tags/box2d/" class="single__tag" title="box2d">#box2d</a></li>
 
-  <li><a href="http://example.org/tags/university/" class="single__tag" title="university">#university</a></li>
+  <li><a href="https://devpilgrim.com/tags/cpp/" class="single__tag" title="cpp">#cpp</a></li>
 
 </ul>
 
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      <p>This was my last project for Year 2. Purpose of the project is to demonstrate knowledge and proficiency by using and manipulating textured 3D geometry, multiple interactable game states and physics interactions using the Box2D library (3D objects on a 2D plane) and the GEF framework.<br />
-</br></p>
-<p>Gameplay wise you have a player ship and respawnable enemies. The goal is to survive for as long as possible while getting the highest score you can. There are collision based physics interactions between the player, enemies, bullets and ground. A spin I added is that you can manipulate the bullets while they are flying. You as the player decide in which direction they fly and it can be changes mid air.<br />
-</br></p>
+      <p>This was my last project for Year 2. Purpose of the project is to demonstrate knowledge and proficiency by using and manipulating textured 3D geometry, multiple interactable game states and physics interactions using the Box2D library (3D objects on a 2D plane) and the GEF framework.</p>
+<p>Gameplay wise you have a player ship and respawnable enemies. The goal is to survive for as long as possible while getting the highest score you can. There are collision based physics interactions between the player, enemies, bullets and ground. A spin I added is that you can manipulate the bullets while they are flying. You as the player decide in which direction they fly and it can be changes mid air.</p>
 <p>The biggest thing I learned from this project was how to make my own class based State Machine. Apart from the state machine was interesting to use the Box2D library for the first time and not have to write my own collision.</p>
 
     </article>
@@ -1972,13 +1984,13 @@
     
     
       
-        <a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fexample.org%2fposts%2fgef_and_box2d%2f" title="Facebook" aria-label="Facebook Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdevpilgrim.com%2fposts%2fgef_and_box2d%2f" title="Facebook" aria-label="Facebook Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
           <svg data-name="facebook" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m15.997 3.985h2.191v-3.816c-.378-.052-1.678-.169-3.192-.169-3.159 0-5.323 1.987-5.323 5.639v3.361h-3.486v4.266h3.486v10.734h4.274v-10.733h3.345l.531-4.266h-3.877v-2.939c.001-1.233.333-2.077 2.051-2.077z"/></svg>
         </a>
       
     
       
-        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fexample.org%2fposts%2fgef_and_box2d%2f&title=2.5D%20Game%20using%20Box2D%20and%20the%20GEF%20Framework &summary=My%20first%20experience%20with%20Box2D%20and%20my%20last%20project%20for%20Year%202&source=The%20Zzo%20theme%20for%20Hugo%20example%20site." target="_blank" rel="noreferrer" title="LinkedIn" aria-label="LinkedIn Share Button" class="donation__item" data-type="share">
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fdevpilgrim.com%2fposts%2fgef_and_box2d%2f&title=2.5D%20Game%20using%20Box2D%20and%20the%20GEF%20Framework &summary=My%20first%20experience%20with%20Box2D%20and%20my%20last%20project%20for%20Year%202&source=The%20Zzo%20theme%20for%20Hugo%20example%20site." target="_blank" rel="noreferrer" title="LinkedIn" aria-label="LinkedIn Share Button" class="donation__item" data-type="share">
           <svg data-name="linkedin" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m23.994 24v-.001h.006v-8.802c0-4.306-.927-7.623-5.961-7.623-2.42 0-4.044 1.328-4.707 2.587h-.07v-2.185h-4.773v16.023h4.97v-7.934c0-2.089.396-4.109 2.983-4.109 2.549 0 2.587 2.384 2.587 4.243v7.801z"/><path d="m.396 7.977h4.976v16.023h-4.976z"/><path d="m2.882 0c-1.591 0-2.882 1.291-2.882 2.882s1.291 2.909 2.882 2.909 2.882-1.318 2.882-2.909c-.001-1.591-1.292-2.882-2.882-2.882z"/></svg>
         </a>
       
@@ -2112,7 +2124,7 @@
 <nav class="pagination-single">
   
     
-      <a href="http://example.org/posts/shortcodes/" class="pagination-single__left">
+      <a href="https://devpilgrim.com/posts/shortcodes/" class="pagination-single__left">
         <div class="pagination-single__icon">
           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M19 11H7.83l4.88-4.88c.39-.39.39-1.03 0-1.42-.39-.39-1.02-.39-1.41 0l-6.59 6.59c-.39.39-.39 1.02 0 1.41l6.59 6.59c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L7.83 13H19c.55 0 1-.45 1-1s-.45-1-1-1z"/></svg>
         </div>
@@ -2120,6 +2132,13 @@
       </a>
     
     <div class="grow"></div>
+    
+      <a href="https://devpilgrim.com/posts/string_searching/" class="pagination-single__right">      
+        <div class="pagination-single__right-title">String Searching - Data Structures and Algorithms</div>
+        <div class="pagination-single__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
+        </div>
+      </a>
     
   
 </nav>

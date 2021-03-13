@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>coursework on My Game Dev Journey</title>
+    <link>https://devpilgrim.com/categories/coursework/</link>
+    <description>Recent content in coursework on My Game Dev Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
+    <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://devpilgrim.com/categories/coursework/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Networking with Asteroids</title>
+        <link>https://devpilgrim.com/posts/asteroids_networked/</link>
+        <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Sat, 19 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/asteroids_networked/</guid>
+        <description>For this module we had to network a game using any networking API. During the classes we were taught winsock and SFML. For my coursework I decided to use my year 1 asteroids game as a base and add networking using SFML on top.
+The Network Architecture I chose for the projcet was Server-Client. Reasoning being that it scales easier than P2P. It is more secure, because the Server has to verify the data from the players and more stable if a Client crashes, thus not affecting the other Clients if the host-client crashes by mistake in P2P.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/asteroids.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sfml</category>
+            
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Asteroids</title>
+        <link>https://devpilgrim.com/posts/asteroids/</link>
+        <pubDate>Fri, 18 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Fri, 18 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/asteroids/</guid>
+        <description>This was the very first game I made when I got into University. It was made as a project for the CMP105 Games Course (Link for the module description below).
+The game was made utilizing the SFML Library and C++.
+As my very first game I learned quite a bit, and I also messed up quite a lot. It was a good introduction into the of games programming which is also what sparked my interest to continue learning and wanting to get better at it.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/asteroids.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sfml</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenGL Scene</title>
+        <link>https://devpilgrim.com/posts/opengl/</link>
+        <pubDate>Fri, 18 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Fri, 18 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/opengl/</guid>
+        <description>With this course we got introduced to OpenGL, or more specifically GLUT. The goal of this course and project was to design and develop a 3D graphics application and scene that exhibits key techniques in graphics programming using OpenGL.
+The techniques I have successfuly implemented are:
+Lighting  Point light and a spot light different properties on the geometry to simulate different reflection values and materials  Geometry  hand crafted geometry using vertexes transparent textures depth buffer for the skybox hierarchy modelling for planets orbiting a sun trilinear filtering for the ground texture  Camera  fully functioning 1st person camera with keyboard and mouse movement static birds eye camera</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/opengl.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>opengl</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>String Searching - Data Structures and Algorithms</title>
+        <link>https://devpilgrim.com/posts/string_searching/</link>
+        <pubDate>Thu, 17 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Thu, 17 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/string_searching/</guid>
+        <description>Year 2 we started learning about different kinds of data structures and algorithms as well as applying them.
+For the assessment project we had to create an application which implements two different standard algorithms with the appropriate data structures and the ability to vary the size of the input data.
+I chose two different string searching algorithms. The Rabin Karp algorithm which is utilizes a brute force process and the Boyer Moore algorithm, which utilizes a skipping approach to string searching.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/str_search.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>algorithms</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>2.5D Game using Box2D and the GEF Framework</title>
+        <link>https://devpilgrim.com/posts/gef_and_box2d/</link>
+        <pubDate>Wed, 16 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Wed, 16 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/gef_and_box2d/</guid>
+        <description>This was my last project for Year 2. Purpose of the project is to demonstrate knowledge and proficiency by using and manipulating textured 3D geometry, multiple interactable game states and physics interactions using the Box2D library (3D objects on a 2D plane) and the GEF framework.
+Gameplay wise you have a player ship and respawnable enemies. The goal is to survive for as long as possible while getting the highest score you can.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/gef.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>gef</category>
+            
+          
+            
+              <category>box2d</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "https://devpilgrim.com/"
 title = "My Game Dev Journey"
 theme = "zzo"
 
@@ -16,7 +16,7 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "UA-169214741-1"
 
 [markup]
   [markup.goldmark]

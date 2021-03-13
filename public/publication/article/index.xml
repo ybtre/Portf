@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>article on My Game Dev Journey</title>
-    <link>http://example.org/publication/article/</link>
+    <link>https://devpilgrim.com/publication/article/</link>
     <description>Recent content in article on My Game Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/publication/article/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devpilgrim.com/publication/article/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Good Title</title>
-        <link>http://example.org/publication/article/article_any_folder_name_1/</link>
+        <link>https://devpilgrim.com/publication/article/article_any_folder_name_1/</link>
         <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/publication/article/article_any_folder_name_1/</guid>
+        <guid>https://devpilgrim.com/publication/article/article_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>

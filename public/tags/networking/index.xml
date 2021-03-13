@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>networking on My Game Dev Journey</title>
+    <link>https://devpilgrim.com/tags/networking/</link>
+    <description>Recent content in networking on My Game Dev Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
+    <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://devpilgrim.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Networking with Asteroids</title>
+        <link>https://devpilgrim.com/posts/asteroids_networked/</link>
+        <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Sat, 19 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/asteroids_networked/</guid>
+        <description>For this module we had to network a game using any networking API. During the classes we were taught winsock and SFML. For my coursework I decided to use my year 1 asteroids game as a base and add networking using SFML on top.
+The Network Architecture I chose for the projcet was Server-Client. Reasoning being that it scales easier than P2P. It is more secure, because the Server has to verify the data from the players and more stable if a Client crashes, thus not affecting the other Clients if the host-client crashes by mistake in P2P.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/asteroids.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sfml</category>
+            
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

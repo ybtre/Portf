@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>c_sharp on My Game Dev Journey</title>
+    <link>https://devpilgrim.com/tags/c_sharp/</link>
+    <description>Recent content in c_sharp on My Game Dev Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
+    <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 11:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://devpilgrim.com/tags/c_sharp/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Object Pooling - Deep Dive</title>
+        <link>https://devpilgrim.com/posts/objectpooling/</link>
+        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Sat, 19 Dec 2020 11:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/objectpooling/</guid>
+        <description>Hello and welcome back In this post I will go over how I&amp;rsquo;ve implemented object pooling into a simple game I made in Unity. I have been wanting to write this for a while, but I was on holiday and then had to catch up on work and did not have the time to do so. So without further adieu let&amp;rsquo;s dive in.
+Let&amp;rsquo;s start with understanding what an object pool is.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/object_pool/geoShooter_pooling.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>unity</category>
+            
+          
+            
+              <category>mechanic</category>
+            
+          
+            
+              <category>c_sharp</category>
+            
+          
+        
+        
+          
+            
+              <category>unity</category>
+            
+          
+            
+              <category>personal</category>
+            
+          
+            
+              <category>mechanic</category>
+            
+          
+        
+        
+          
+            
+              <category>Personal Projects</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

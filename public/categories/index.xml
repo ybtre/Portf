@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on My Game Dev Journey</title>
-    <link>http://example.org/categories/</link>
+    <link>https://devpilgrim.com/categories/</link>
     <description>Recent content in Categories on My Game Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devpilgrim.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>project</title>
-        <link>http://example.org/categories/project/</link>
-        <pubDate>Wed, 16 Dec 2020 12:00:06 +0900</pubDate>
+        <title>coursework</title>
+        <link>https://devpilgrim.com/categories/coursework/</link>
+        <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>http://example.org/categories/project/</guid>
+        <guid>https://devpilgrim.com/categories/coursework/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>university</title>
-        <link>http://example.org/categories/university/</link>
-        <pubDate>Wed, 16 Dec 2020 12:00:06 +0900</pubDate>
+        <link>https://devpilgrim.com/categories/university/</link>
+        <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>http://example.org/categories/university/</guid>
+        <guid>https://devpilgrim.com/categories/university/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
@@ -57,12 +57,12 @@
       </item>
       
       <item>
-        <title>syntax</title>
-        <link>http://example.org/categories/syntax/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>mechanic</title>
+        <link>https://devpilgrim.com/categories/mechanic/</link>
+        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>http://example.org/categories/syntax/</guid>
+        <guid>https://devpilgrim.com/categories/mechanic/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
@@ -75,12 +75,12 @@
       </item>
       
       <item>
-        <title>themes</title>
-        <link>http://example.org/categories/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>personal</title>
+        <link>https://devpilgrim.com/categories/personal/</link>
+        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>http://example.org/categories/themes/</guid>
+        <guid>https://devpilgrim.com/categories/personal/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
@@ -93,12 +93,12 @@
       </item>
       
       <item>
-        <title>hugo</title>
-        <link>http://example.org/categories/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <title>unity</title>
+        <link>https://devpilgrim.com/categories/unity/</link>
+        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>http://example.org/categories/hugo/</guid>
+        <guid>https://devpilgrim.com/categories/unity/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>

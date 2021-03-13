@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>algorithms on My Game Dev Journey</title>
+    <link>https://devpilgrim.com/tags/algorithms/</link>
+    <description>Recent content in algorithms on My Game Dev Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
+    <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://devpilgrim.com/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>String Searching - Data Structures and Algorithms</title>
+        <link>https://devpilgrim.com/posts/string_searching/</link>
+        <pubDate>Thu, 17 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Thu, 17 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/string_searching/</guid>
+        <description>Year 2 we started learning about different kinds of data structures and algorithms as well as applying them.
+For the assessment project we had to create an application which implements two different standard algorithms with the appropriate data structures and the ability to vary the size of the input data.
+I chose two different string searching algorithms. The Rabin Karp algorithm which is utilizes a brute force process and the Boyer Moore algorithm, which utilizes a skipping approach to string searching.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/str_search.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>algorithms</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

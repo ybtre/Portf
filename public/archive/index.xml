@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on My Game Dev Journey</title>
-    <link>http://example.org/archive/</link>
+    <link>https://devpilgrim.com/archive/</link>
     <description>Recent content in Archive on My Game Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devpilgrim.com/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>My Game Dev Journey</title>
-    <link>http://example.org/</link>
+    <link>https://devpilgrim.com/</link>
     <description>Recent content on My Game Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devpilgrim.com/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -42,18 +42,257 @@
 
       
       <item>
+        <title>Networking with Asteroids</title>
+        <link>https://devpilgrim.com/posts/asteroids_networked/</link>
+        <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Sat, 19 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/asteroids_networked/</guid>
+        <description>For this module we had to network a game using any networking API. During the classes we were taught winsock and SFML. For my coursework I decided to use my year 1 asteroids game as a base and add networking using SFML on top.
+The Network Architecture I chose for the projcet was Server-Client. Reasoning being that it scales easier than P2P. It is more secure, because the Server has to verify the data from the players and more stable if a Client crashes, thus not affecting the other Clients if the host-client crashes by mistake in P2P.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/asteroids.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sfml</category>
+            
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Object Pooling - Deep Dive</title>
+        <link>https://devpilgrim.com/posts/objectpooling/</link>
+        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Sat, 19 Dec 2020 11:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/objectpooling/</guid>
+        <description>Hello and welcome back In this post I will go over how I&amp;rsquo;ve implemented object pooling into a simple game I made in Unity. I have been wanting to write this for a while, but I was on holiday and then had to catch up on work and did not have the time to do so. So without further adieu let&amp;rsquo;s dive in.
+Let&amp;rsquo;s start with understanding what an object pool is.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/object_pool/geoShooter_pooling.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>unity</category>
+            
+          
+            
+              <category>mechanic</category>
+            
+          
+            
+              <category>c_sharp</category>
+            
+          
+        
+        
+          
+            
+              <category>unity</category>
+            
+          
+            
+              <category>personal</category>
+            
+          
+            
+              <category>mechanic</category>
+            
+          
+        
+        
+          
+            
+              <category>Personal Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Asteroids</title>
+        <link>https://devpilgrim.com/posts/asteroids/</link>
+        <pubDate>Fri, 18 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Fri, 18 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/asteroids/</guid>
+        <description>This was the very first game I made when I got into University. It was made as a project for the CMP105 Games Course (Link for the module description below).
+The game was made utilizing the SFML Library and C++.
+As my very first game I learned quite a bit, and I also messed up quite a lot. It was a good introduction into the of games programming which is also what sparked my interest to continue learning and wanting to get better at it.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/asteroids.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sfml</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenGL Scene</title>
+        <link>https://devpilgrim.com/posts/opengl/</link>
+        <pubDate>Fri, 18 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Fri, 18 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/opengl/</guid>
+        <description>With this course we got introduced to OpenGL, or more specifically GLUT. The goal of this course and project was to design and develop a 3D graphics application and scene that exhibits key techniques in graphics programming using OpenGL.
+The techniques I have successfuly implemented are:
+Lighting  Point light and a spot light different properties on the geometry to simulate different reflection values and materials  Geometry  hand crafted geometry using vertexes transparent textures depth buffer for the skybox hierarchy modelling for planets orbiting a sun trilinear filtering for the ground texture  Camera  fully functioning 1st person camera with keyboard and mouse movement static birds eye camera</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/opengl.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>opengl</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>String Searching - Data Structures and Algorithms</title>
+        <link>https://devpilgrim.com/posts/string_searching/</link>
+        <pubDate>Thu, 17 Dec 2020 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Thu, 17 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/string_searching/</guid>
+        <description>Year 2 we started learning about different kinds of data structures and algorithms as well as applying them.
+For the assessment project we had to create an application which implements two different standard algorithms with the appropriate data structures and the ability to vary the size of the input data.
+I chose two different string searching algorithms. The Rabin Karp algorithm which is utilizes a brute force process and the Boyer Moore algorithm, which utilizes a skipping approach to string searching.</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/str_search.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>algorithms</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>2.5D Game using Box2D and the GEF Framework</title>
-        <link>http://example.org/posts/gef_and_box2d/</link>
+        <link>https://devpilgrim.com/posts/gef_and_box2d/</link>
         <pubDate>Wed, 16 Dec 2020 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Wed, 16 Dec 2020 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/posts/gef_and_box2d/</guid>
+        <guid>https://devpilgrim.com/posts/gef_and_box2d/</guid>
         <description>This was my last project for Year 2. Purpose of the project is to demonstrate knowledge and proficiency by using and manipulating textured 3D geometry, multiple interactable game states and physics interactions using the Box2D library (3D objects on a 2D plane) and the GEF framework.
-
 Gameplay wise you have a player ship and respawnable enemies. The goal is to survive for as long as possible while getting the highest score you can.</description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
-        <media:content url="http://example.org/PostImages/gef.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://devpilgrim.com//PostImages/gef.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -67,7 +306,7 @@ Gameplay wise you have a player ship and respawnable enemies. The goal is to sur
             
           
             
-              <category>university</category>
+              <category>cpp</category>
             
           
         
@@ -78,7 +317,7 @@ Gameplay wise you have a player ship and respawnable enemies. The goal is to sur
             
           
             
-              <category>project</category>
+              <category>coursework</category>
             
           
         
@@ -93,112 +332,54 @@ Gameplay wise you have a player ship and respawnable enemies. The goal is to sur
       
       <item>
         <title>Shortcodes</title>
-        <link>http://example.org/posts/shortcodes/</link>
+        <link>https://devpilgrim.com/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://example.org/posts/shortcodes/</guid>
+        <guid>https://devpilgrim.com/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode Code tabs Make it easy to switch between different code
 javajavascript1  System.out.println(&amp;#39;Hello World!&amp;#39;);   1  console.log(&amp;#39;Hello World!&amp;#39;);   &#39;use strict&#39;;var containerId = JSON.parse(&#34;\&#34;e3ccd48fd780d100\&#34;&#34;);var containerElem = document.getElementById(containerId);var codetabLinks = null;var codetabContents = null;var ids = [];if (containerElem) {codetabLinks = containerElem.</description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
-        <media:content url="http://example.orgimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://devpilgrim.com/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
-          
-            
-              <category>shortcode</category>
-            
-          
         
-        
-          
-            
-          
-        
-        
-          
-            
-          
         
       </item>
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://example.org/posts/markdown-syntax/</link>
+        <link>https://devpilgrim.com/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/posts/markdown-syntax/</guid>
+        <guid>https://devpilgrim.com/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         
         <dc:creator>Choi</dc:creator>
-        <media:content url="http://example.orgimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://devpilgrim.com/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
-          
-            
-              <category>markdown</category>
-            
-          
-            
-              <category>css</category>
-            
-          
-            
-              <category>html</category>
-            
-          
-            
-              <category>themes</category>
-            
-          
         
-        
-          
-            
-              <category>themes</category>
-            
-          
-            
-              <category>syntax</category>
-            
-          
-        
-        
-          
-            
-              <category>Themes Guide</category>
-            
-          
         
       </item>
       
       <item>
         <title>Rich Content</title>
-        <link>http://example.org/posts/rich-content/</link>
+        <link>https://devpilgrim.com/posts/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/posts/rich-content/</guid>
+        <guid>https://devpilgrim.com/posts/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
         
         <dc:creator>Lee</dc:creator>
-        <media:content url="http://example.orgimages/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://devpilgrim.com/images/feature2/content.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
-        
-          
-            
-              <category>shortcodes</category>
-            
-          
-            
-              <category>privacy</category>
-            
-          
         
         
         
@@ -206,35 +387,19 @@ javajavascript1  System.out.println(&amp;#39;Hello World!&amp;#39;);   1  c
       
       <item>
         <title>Syntax highlighting</title>
-        <link>http://example.org/posts/syntax-highlight/</link>
+        <link>https://devpilgrim.com/posts/syntax-highlight/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>http://example.org/posts/syntax-highlight/</guid>
+        <guid>https://devpilgrim.com/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
         
         <dc:creator>Jeus</dc:creator>
-        <media:content url="http://example.orgimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://devpilgrim.com/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
-          
-            
-              <category>hugo</category>
-            
-          
         
-        
-          
-            
-              <category>hugo</category>
-            
-          
-        
-        
-          
-            
-          
         
       </item>
       

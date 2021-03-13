@@ -3,252 +3,268 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://devpilgrim.com/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://devpilgrim.com/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://devpilgrim.com/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/coursework/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/cpp/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/networking/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/asteroids_networked/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/sfml/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/university/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/university-projects/</loc>
+    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/c_sharp/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/mechanic/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/mechanic/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/objectpooling/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/personal/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/personal-projects/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/unity/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/unity/</loc>
+    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/asteroids/</loc>
+    <lastmod>2020-12-18T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/opengl/</loc>
+    <lastmod>2020-12-18T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/opengl/</loc>
+    <lastmod>2020-12-18T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/algorithms/</loc>
+    <lastmod>2020-12-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/string_searching/</loc>
+    <lastmod>2020-12-17T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/gef_and_box2d/</loc>
     <lastmod>2020-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/gef_and_box2d/</loc>
+    <loc>https://devpilgrim.com/tags/box2d/</loc>
     <lastmod>2020-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/box2d/</loc>
+    <loc>https://devpilgrim.com/tags/gef/</loc>
     <lastmod>2020-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/gef/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/project/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/series/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/university/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/university/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/series/university-projects/</loc>
-    <lastmod>2020-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/publication/article/</loc>
+    <loc>https://devpilgrim.com/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/book/</loc>
+    <loc>https://devpilgrim.com/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/misc/</loc>
+    <loc>https://devpilgrim.com/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/</loc>
+    <loc>https://devpilgrim.com/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/shortcode/</loc>
+    <loc>https://devpilgrim.com/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/showcase/hugo/</loc>
+    <loc>https://devpilgrim.com/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/showcase/</loc>
+    <loc>https://devpilgrim.com/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/css/</loc>
+    <loc>https://devpilgrim.com/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/html/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/markdown/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/markdown-syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/series/themes-guide/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/privacy/</loc>
+    <loc>https://devpilgrim.com/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/rich-content/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/shortcodes/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://devpilgrim.com/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/syntax-highlight/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/gallery/cartoon/</loc>
+    <loc>https://devpilgrim.com/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/</loc>
+    <loc>https://devpilgrim.com/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/photo/</loc>
+    <loc>https://devpilgrim.com/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/presentation/dir/fourth/</loc>
+    <loc>https://devpilgrim.com/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/presentation/</loc>
+    <loc>https://devpilgrim.com/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/presentation/third/</loc>
+    <loc>https://devpilgrim.com/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/presentation/second/</loc>
+    <loc>https://devpilgrim.com/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/presentation/first/</loc>
+    <loc>https://devpilgrim.com/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/archive/</loc>
+    <loc>https://devpilgrim.com/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://devpilgrim.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/article/article_any_folder_name_1/</loc>
+    <loc>https://devpilgrim.com/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/book/book_any_folder_name_1/</loc>
+    <loc>https://devpilgrim.com/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>https://devpilgrim.com/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/index/</loc>
   </url>
   
 </urlset>

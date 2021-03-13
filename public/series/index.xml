@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on My Game Dev Journey</title>
-    <link>http://example.org/series/</link>
+    <link>https://devpilgrim.com/series/</link>
     <description>Recent content in Series on My Game Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devpilgrim.com/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>University Projects</title>
-        <link>http://example.org/series/university-projects/</link>
-        <pubDate>Wed, 16 Dec 2020 12:00:06 +0900</pubDate>
+        <link>https://devpilgrim.com/series/university-projects/</link>
+        <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>http://example.org/series/university-projects/</guid>
+        <guid>https://devpilgrim.com/series/university-projects/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
@@ -39,12 +39,12 @@
       </item>
       
       <item>
-        <title>Themes Guide</title>
-        <link>http://example.org/series/themes-guide/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>Personal Projects</title>
+        <link>https://devpilgrim.com/series/personal-projects/</link>
+        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>http://example.org/series/themes-guide/</guid>
+        <guid>https://devpilgrim.com/series/personal-projects/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
