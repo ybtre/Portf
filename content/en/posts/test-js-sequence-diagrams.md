@@ -5,12 +5,6 @@ description: "Generates UML sequence diagrams from simple text"
 draft: true
 enableToc: false
 enableTocContent: false
-tags:
--
-series:
--
-categories:
-- diagram
 libraries:
 - msc
 image: images/feature2/transfer.png

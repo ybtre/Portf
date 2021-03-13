@@ -5,12 +5,6 @@ description: "Generate diagrams, charts, graphs or flows from markdown-like text
 draft: true
 enableToc: false
 enableTocContent: false
-tags:
-- diagram
-series:
--
-categories:
-- diagram
 libraries:
 - mermaid
 image: images/feature2/workflow.png

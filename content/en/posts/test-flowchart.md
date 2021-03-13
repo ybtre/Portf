@@ -6,12 +6,6 @@ Nodes and connections are defined in separately so that nodes can be reused and 
 draft: true
 enableToc: false
 enableTocContent: false
-tags:
--
-series:
--
-categories:
-- diagram
 libraries:
 - flowchartjs
 image: images/feature1/flowchart.png

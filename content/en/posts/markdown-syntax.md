@@ -8,16 +8,6 @@ enableToc: true
 enableTocContent: true
 author: Choi
 authorEmoji: 🤖
-tags:
-- markdown
-- css
-- html
-- themes
-categories:
-- themes
-- syntax
-series:
-- Themes Guide
 image: images/feature1/markdown.png
 ---
 

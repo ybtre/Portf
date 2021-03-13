@@ -5,12 +5,6 @@ description: "KaTeX is a fast, easy-to-use JavaScript library for TeX math rende
 draft: true
 enableToc: false
 enableTocContent: false
-tags:
-- 
-series:
--
-categories:
-- math
 libraries:
 - katex
 image: images/feature2/mathbook.png

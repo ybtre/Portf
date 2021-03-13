@@ -5,12 +5,6 @@ description: "A hack to put Graphviz on the web."
 draft: true
 enableToc: false
 enableTocContent: false
-tags:
--
-series:
--
-categories:
-- diagram
 libraries:
 - viz
 image: images/feature2/graph.png

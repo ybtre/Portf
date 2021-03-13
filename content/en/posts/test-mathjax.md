@@ -5,12 +5,6 @@ description: "A JavaScript display engine for mathematics that works in all brow
 draft: true
 enableToc: false
 enableTocContent: false
-tags:
-- 
-series:
--
-categories:
-- math
 libraries:
 - mathjax
 image: images/feature1/infinity.png

@@ -9,12 +9,7 @@ enableToc: true
 enableTocContent: false
 author: Kim
 authorEmoji: 👻
-tags: 
-- emoji
-- gamoji
-- namoji
-- bamoji
-- amoji
+
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways. 
