@@ -4,17 +4,67 @@
   
   <url>
     <loc>https://devpilgrim.com/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/ai/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/ai_mlagents_unity/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/c#/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/categories/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/categories/coursework/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/ml/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/unity/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/university/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/university-projects/</loc>
+    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -33,32 +83,7 @@
   </url>
   
   <url>
-    <loc>https://devpilgrim.com/posts/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/series/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://devpilgrim.com/tags/sfml/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/tags/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/categories/university/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/series/university-projects/</loc>
     <lastmod>2020-12-19T12:00:06+09:00</lastmod>
   </url>
   
@@ -89,11 +114,6 @@
   
   <url>
     <loc>https://devpilgrim.com/series/personal-projects/</loc>
-    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/tags/unity/</loc>
     <lastmod>2020-12-19T11:00:06+09:00</lastmod>
   </url>
   

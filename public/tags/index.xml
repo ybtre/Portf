@@ -14,11 +14,83 @@
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://devpilgrim.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AI</title>
+        <link>https://devpilgrim.com/tags/ai/</link>
+        <pubDate>Tue, 01 Jun 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>https://devpilgrim.com/tags/ai/</guid>
+        <description></description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>C#</title>
+        <link>https://devpilgrim.com/tags/c#/</link>
+        <pubDate>Tue, 01 Jun 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>https://devpilgrim.com/tags/c#/</guid>
+        <description></description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ML</title>
+        <link>https://devpilgrim.com/tags/ml/</link>
+        <pubDate>Tue, 01 Jun 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>https://devpilgrim.com/tags/ml/</guid>
+        <description></description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Unity</title>
+        <link>https://devpilgrim.com/tags/unity/</link>
+        <pubDate>Tue, 01 Jun 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>https://devpilgrim.com/tags/unity/</guid>
+        <description></description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>cpp</title>
@@ -99,24 +171,6 @@
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
         <guid>https://devpilgrim.com/tags/mechanic/</guid>
-        <description></description>
-        
-        <dc:creator>Hristo Vuchev</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>unity</title>
-        <link>https://devpilgrim.com/tags/unity/</link>
-        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
-        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
-        
-        <guid>https://devpilgrim.com/tags/unity/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
