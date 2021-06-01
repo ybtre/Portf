@@ -13,11 +13,11 @@ image: /PostImages/ML_Agents/ML-Agent.png
 tags: 
 - AI
 - ML
-- C#
-- Unity
+- c_sharp
 categories:
 - university
 - coursework
+- unity
 series:
 - University Projects
 ---
