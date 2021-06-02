@@ -237,4 +237,20 @@
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://devpilgrim.com/tags/test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/2021-test/</loc>
+  </url>
+  
 </urlset>

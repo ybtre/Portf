@@ -382,6 +382,42 @@ Gameplay wise you have a player ship and respawnable enemies. The goal is to sur
         
       </item>
       
+      <item>
+        <title>test</title>
+        <link>https://devpilgrim.com/posts/2021-test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>https://devpilgrim.com/posts/2021-test/</guid>
+        <description>test</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//images/opengl.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>test</category>
+            
+          
+        
+        
+          
+            
+              <category>test</category>
+            
+          
+        
+        
+          
+            
+              <category>test</category>
+            
+          
+        
+      </item>
+      
 
     
   </channel>
