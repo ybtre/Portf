@@ -6,7 +6,7 @@ media_folder: "static/PostImages"
 public_folder: "/images"
  
 collections:
-    - name: "my posts"
+    - name: "posts"
       label: "Posts"
       folder: "content/en/posts/"
       create: true
