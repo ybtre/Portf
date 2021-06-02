@@ -56,12 +56,12 @@ The last setup needed in order to start training the agent is a configuration fi
 #### Results
 The Unity ML Agents Toolkit provides results which are nicely integrated into tensorboard. Two types of testing has been used. A single-agent scenario and simultaneous single-agent training. For the Single-agent training (figure 1), each agent was trained a hundred thousand episodes and the graphs are rated on the cumulative reward at every ten thousand sessions and the episode length, again at every ten thousand sessions. The Simultaneous single-agent training was done using 20 simultaneous agents for one million episodes (figure 2); they were rated on the same values as the single agent. There was also a test conducted that combined all 3 algorithms using a single-agent and trained for one hundred thousand episodes (figure 3).
 
-! [figure one graph] (/PostImages/ML_Agents/figure_one_graph.png)
-! [figure one legend] (/PostImages/ML_Agents/figure_one_legend.png)
+! [figure one graph] (./PostImages/ML_Agents/figure_one_graph.png)
+! [figure one legend] (./PostImages/ML_Agents/figure_one_legend.png)
 ###### Note: Behavioural refers to behavioral cloning; Imitation refers to GAIL; Reinforced refers to Reinforced Learning
 
-! [figure two graph] (/PostImages/ML_Agents/figure_two_graph.png)
-! [figure two legend] (/PostImages/ML_Agents/figure_two_legend.png)
+! [figure two graph] (./PostImages/ML_Agents/figure_two_graph.png)
+! [figure two legend] (./PostImages/ML_Agents/figure_two_legend.png)
 ###### Note: Behavioural refers to behavioral cloning; Imitation refers to GAIL; Reinforced refers to Reinforced Learning
 
 ![figure three graph] (/PostImages/ML_Agents/figure_three_graph.png)
