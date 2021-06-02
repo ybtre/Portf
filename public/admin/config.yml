@@ -12,7 +12,7 @@ collections:
       create: true
       slug: "{{year}}-{{slug}}"
       fields:
-        - {label: "Author", name: "author", widget: "string", default: "Ritschie"}
+        # - {label: "Author", name: "author", widget: "string", default: "Ritschie"}
         - {label: "Title", name: "title", widget: "string", required: true}
         - {label: "Publish Date", name: "date", widget: hidden}
         - {label: "Description", name: "description", widget: "string"}
