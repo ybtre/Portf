@@ -1,8 +1,8 @@
 ---
 author: "Ritschie"
-title: "AI using Unity ML-Agents"
+title: "Gameplay Mechanics implementation in Unreal"
 date: 2021-04-01T12:00:06+09:00
-description: "Gameplay Mechanics implementation in Unreal - University Coursework"
+description: "Gameplay Mechanics implementation in Unreal - University Coursework, inspired by similar systems in Diablo/Path of Exile"
 draft: false
 hideToc: false
 enableToc: true
