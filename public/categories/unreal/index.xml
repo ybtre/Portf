@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>AI on My Game Dev Journey</title>
-    <link>https://devpilgrim.com/tags/ai/</link>
-    <description>Recent content in AI on My Game Dev Journey</description>
+    <title>unreal on My Game Dev Journey</title>
+    <link>https://devpilgrim.com/categories/unreal/</link>
+    <description>Recent content in unreal on My Game Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
@@ -16,35 +16,35 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 01 Apr 2021 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://devpilgrim.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devpilgrim.com/categories/unreal/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>AI using Unity ML-Agents</title>
-        <link>https://devpilgrim.com/posts/ai_mlagents_unity/</link>
+        <link>https://devpilgrim.com/posts/gameplaymechanic_unreal/</link>
         <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
-        <guid>https://devpilgrim.com/posts/ai_mlagents_unity/</guid>
-        <description>Module Introduction For this module we had to compare different AI techniques. Which those techniques are was up to us. During the semester we studied Finite State Machines, Rule Based Systems, Fuzzy Logic, Reinforcement and Predictive Learning, Genetic Algorithms, Case Based Reasoning, Artificial Neural Networks, Self-Organaing Maps and Clustering and Deep Neural Networks. I decided to compare 3 different techniques from Machine Learning - Reinforcement Learning and 2 types of Imitation Learning - Behavioral Cloning and GAIL (Generative Adversarial Imitation Learning)</description>
+        <guid>https://devpilgrim.com/posts/gameplaymechanic_unreal/</guid>
+        <description>Summary The mechanics I have implemented is a player resource (Health/Mana) management and
+manipulation mechanic in similar fashion to MMORPG/ARPG/MOBA etc games. Diablo
+and Path of Exile served as inspiration. The mechanic is made up of several components:
+  Health system, where:
+ Taking damage causes the player to lose HP Picking up HP Potions recovers Player HP Easy access to HP values    Mana system, where:</description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
-        <media:content url="https://devpilgrim.com//PostImages/ML_Agents/ML-Agent.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://devpilgrim.com//PostImages/cmp302_unreal/banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
-              <category>AI</category>
+              <category>mechanic</category>
             
           
             
-              <category>ML</category>
-            
-          
-            
-              <category>c_sharp</category>
+              <category>cpp</category>
             
           
         
@@ -59,7 +59,7 @@
             
           
             
-              <category>unity</category>
+              <category>unreal</category>
             
           
         

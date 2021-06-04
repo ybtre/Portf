@@ -1,7 +1,7 @@
 ---
 author: "Ritschie"
 title: "AI using Unity ML-Agents"
-date: 2021-06-01T12:00:06+09:00
+date: 2021-04-01T12:00:06+09:00
 description: "Exploring ML using the Unity ML-Agents Toolkit"
 draft: false
 hideToc: false

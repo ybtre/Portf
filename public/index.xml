@@ -14,7 +14,7 @@
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://devpilgrim.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,9 +44,9 @@
       <item>
         <title>AI using Unity ML-Agents</title>
         <link>https://devpilgrim.com/posts/ai_mlagents_unity/</link>
-        <pubDate>Tue, 01 Jun 2021 12:00:06 +0900</pubDate>
+        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
-        <atom:modified>Tue, 01 Jun 2021 12:00:06 +0900</atom:modified>
+        <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
         <guid>https://devpilgrim.com/posts/ai_mlagents_unity/</guid>
         <description>Module Introduction For this module we had to compare different AI techniques. Which those techniques are was up to us. During the semester we studied Finite State Machines, Rule Based Systems, Fuzzy Logic, Reinforcement and Predictive Learning, Genetic Algorithms, Case Based Reasoning, Artificial Neural Networks, Self-Organaing Maps and Clustering and Deep Neural Networks. I decided to compare 3 different techniques from Machine Learning - Reinforcement Learning and 2 types of Imitation Learning - Behavioral Cloning and GAIL (Generative Adversarial Imitation Learning)</description>
         
@@ -81,6 +81,58 @@
           
             
               <category>unity</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>AI using Unity ML-Agents</title>
+        <link>https://devpilgrim.com/posts/gameplaymechanic_unreal/</link>
+        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/gameplaymechanic_unreal/</guid>
+        <description>Summary The mechanics I have implemented is a player resource (Health/Mana) management and
+manipulation mechanic in similar fashion to MMORPG/ARPG/MOBA etc games. Diablo
+and Path of Exile served as inspiration. The mechanic is made up of several components:
+  Health system, where:
+ Taking damage causes the player to lose HP Picking up HP Potions recovers Player HP Easy access to HP values    Mana system, where:</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/cmp302_unreal/banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>mechanic</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+            
+              <category>unreal</category>
             
           
         
@@ -377,42 +429,6 @@ Gameplay wise you have a player ship and respawnable enemies. The goal is to sur
           
             
               <category>University Projects</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>test</title>
-        <link>https://devpilgrim.com/posts/2021-test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
-        
-        <guid>https://devpilgrim.com/posts/2021-test/</guid>
-        <description>test</description>
-        
-        <dc:creator>Hristo Vuchev</dc:creator>
-        <media:content url="https://devpilgrim.com//images/opengl.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>test</category>
-            
-          
-        
-        
-          
-            
-              <category>test</category>
-            
-          
-        
-        
-          
-            
-              <category>test</category>
             
           
         

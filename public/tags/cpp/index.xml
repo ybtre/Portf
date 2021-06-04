@@ -14,11 +14,63 @@
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://devpilgrim.com/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AI using Unity ML-Agents</title>
+        <link>https://devpilgrim.com/posts/gameplaymechanic_unreal/</link>
+        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/gameplaymechanic_unreal/</guid>
+        <description>Summary The mechanics I have implemented is a player resource (Health/Mana) management and
+manipulation mechanic in similar fashion to MMORPG/ARPG/MOBA etc games. Diablo
+and Path of Exile served as inspiration. The mechanic is made up of several components:
+  Health system, where:
+ Taking damage causes the player to lose HP Picking up HP Potions recovers Player HP Easy access to HP values    Mana system, where:</description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/cmp302_unreal/banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>mechanic</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>university</category>
+            
+          
+            
+              <category>coursework</category>
+            
+          
+            
+              <category>unreal</category>
+            
+          
+        
+        
+          
+            
+              <category>University Projects</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Networking with Asteroids</title>

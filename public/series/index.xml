@@ -14,7 +14,7 @@
     <managingEditor>vuchev7892@gmail.com (Hristo Vuchev)</managingEditor>
     <webMaster>vuchev7892@gmail.com (Hristo Vuchev)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://devpilgrim.com/series/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>University Projects</title>
         <link>https://devpilgrim.com/series/university-projects/</link>
-        <pubDate>Tue, 01 Jun 2021 12:00:06 +0900</pubDate>
+        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
         <guid>https://devpilgrim.com/series/university-projects/</guid>
@@ -45,24 +45,6 @@
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
         <guid>https://devpilgrim.com/series/personal-projects/</guid>
-        <description></description>
-        
-        <dc:creator>Hristo Vuchev</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>test</title>
-        <link>https://devpilgrim.com/series/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
-        
-        <guid>https://devpilgrim.com/series/test/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>

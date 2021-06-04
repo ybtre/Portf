@@ -4,72 +4,87 @@
   
   <url>
     <loc>https://devpilgrim.com/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/tags/ai/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/posts/ai_mlagents_unity/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/gameplaymechanic_unreal/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/tags/c_sharp/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/categories/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/categories/coursework/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/tags/ml/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/posts/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/series/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/tags/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/categories/unity/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/categories/university/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/series/university-projects/</loc>
-    <lastmod>2021-06-01T12:00:06+09:00</lastmod>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://devpilgrim.com/tags/cpp/</loc>
-    <lastmod>2020-12-19T12:00:06+09:00</lastmod>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/mechanic/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/ml/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/posts/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/tags/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/unity/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/university/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/university-projects/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/categories/unreal/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -85,11 +100,6 @@
   <url>
     <loc>https://devpilgrim.com/tags/sfml/</loc>
     <lastmod>2020-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/tags/mechanic/</loc>
-    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -235,22 +245,6 @@
   <url>
     <loc>https://devpilgrim.com/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/tags/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/series/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/categories/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/posts/2021-test/</loc>
   </url>
   
 </urlset>
