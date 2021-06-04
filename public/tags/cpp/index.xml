@@ -27,11 +27,7 @@
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
         <guid>https://devpilgrim.com/posts/gameplaymechanic_unreal/</guid>
-        <description>Purpose More often than not if you play a game today there will be some form of resource
-management system and/or a cost associated with your actions. If you want to cast a spell,
-you will most likely need some form of Energy/Mana/Rage etc. If you want to construct a
-building, you will most likely need Wood, Stone, Gold or any other resource decided on by
-the developers. Even Cooldowns are a form of resource management, they help balance high</description>
+        <description>Purpose More often than not if you play a game today there will be some form of resource management system and/or a cost associated with your actions. If you want to cast a spell, you will most likely need some form of Energy/Mana/Rage etc. If you want to construct a building, you will most likely need Wood, Stone, Gold or any other resource decided on by the developers. Even Cooldowns are a form of resource management, they help balance high impact vs low impact abilities, while at the same time encouraging use of different abilities.</description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
         <media:content url="https://devpilgrim.com//PostImages/cmp302_unreal/banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
