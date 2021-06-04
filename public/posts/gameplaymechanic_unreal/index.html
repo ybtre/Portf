@@ -1756,7 +1756,7 @@ if (!doNotTrack) {
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;Apr 1, 2021 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;2&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;9&nbsp;min read </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="WRITTEN BY">👻&nbsp;Hristo Vuchev</span>
   
@@ -1780,7 +1780,19 @@ if (!doNotTrack) {
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      <h2 id="summary">Summary</h2>
+      <h2 id="purpose">Purpose</h2>
+<p>More often than not if you play a game today there will be some form of resource<br />
+management system and/or a cost associated with your actions. If you want to cast a spell,<br />
+you will most likely need some form of Energy/Mana/Rage etc. If you want to construct a<br />
+building, you will most likely need Wood, Stone, Gold or any other resource decided on by<br />
+the developers. Even Cooldowns are a form of resource management, they help balance high<br />
+impact vs low impact abilities, while at the same time encouraging use of different abilities.<br />
+The aim of the project was to establish the basis for one such system which could later<br />
+be extended and improved based on the needs of the developer.<br />
+The Project is a basic template of how to create one such system and a possible way<br />
+of structuring it in code to allow it to be easily extended with features. The limiting factor<br />
+being your imagination on how to use the given resources.</p>
+<h3 id="summary">Summary</h3>
 <p>The mechanics I have implemented is a player resource (Health/Mana) management and<br />
 manipulation mechanic in similar fashion to MMORPG/ARPG/MOBA etc games. Diablo<br />
 and Path of Exile served as inspiration. The mechanic is made up of several components:</p>
@@ -1847,6 +1859,132 @@ and Path of Exile served as inspiration. The mechanic is made up of several comp
 </ul>
 </li>
 </ul>
+<h3 id="spells">Spells</h3>
+<h4 id="vortex">“Vortex”</h4>
+<p>Description:<br />
+A spell which is cast and channeled by the player. The Spell has an initial mana cost<br />
+associated with it. When the player casts the spell the system first checks if the player has<br />
+enough Mana available. If there is not enough Mana available, then the player can not cast<br />
+the spell. If there is enough Mana, the initial cost of the spell is subtracted from the currently<br />
+available Mana and is cast. If the player continues to hold down the button instead of<br />
+releasing it, the spell starts channeling and numerous things happen. The spell starts draining<br />
+mana at a set rate per second. What is typical for games with a Mana system is that while<br />
+channeling a spell, the player Mana does not stop regenerating. The way the amount of Mana<br />
+to be drained is calculated by subtracting the spell channeling cost from the base Mana regen<br />
+value of the player. (If the passive Mana regen is 5 Mana Per Second, and the spell<br />
+channeling cost is 10 Mana Per Second, then the actual Mana drain while channeling will be<br />
+5 - 10 = - 5 Mana Per Second. This the player will only lose 5 Mana Per Second, instead of<br />
+10 as the channeling cost). The reason it is done this way is because in games often both of<br />
+those values change as the character gets stronger and/or progresses and improves his stats. In<br />
+games such as Path of Exile there are numerous builds which rely on the player having<br />
+enough passive Mana Regen to offset any cost of, sometimes numerous, channeling and/or<br />
+single cast abilities and thus never actually losing Mana and being able to sustain your Mana<br />
+resource.<br />
+While channeling the ability, it constantly deals damage over time to enemies in its<br />
+area of effect. The Damage amount can of course be controlled by the developer and is<br />
+usually a small amount which adds up the longer the ability is being channeled and is a<br />
+reliable and consistent source of damage.<br />
+Another thing that happens while the ability is being channeled is that the player<br />
+movement speed is reduced. This is made in order to have an extra risk factor to using the<br />
+ability which plays into the decision making the player goes through when using abilities. Is<br />
+the cost of the ability worth it in this scenario and against these Enemies.</p>
+<p>Requirements:</p>
+<ol>
+<li>The player to have enough mana to cast the ability</li>
+<li>The player to have enough mana to channel the ability</li>
+<li>The player to be alive</li>
+</ol>
+<h4 id="rock-burst">“Rock Burst”</h4>
+<p>Description:<br />
+This is a single cast spell. It is also High Damage, High Cost and High Cooldown.<br />
+Currently it is capable of killing the enemies in 1 to 2 Casts, in order to offset and balance<br />
+that it has a high innate Mana Cost and a High Cooldown. Several things happen once the<br />
+spell is activated. First things is to check if the player has enough Mana to cover the cost of<br />
+the spell. Next up is to check if the ability is not on Cooldown. When those requirements<br />
+have been met the spell is cast. When cast it deals high damage in an area around the player<br />
+once. The spell also goes on cooldown and it is unavailable to cast again within that period.<br />
+This is also another common spell archetype in games which is why it was chosen.</p>
+<p>Requirements:</p>
+<ol>
+<li>The player to have enough mana to cast the spell</li>
+<li>The spell to not be on cooldown</li>
+<li>The player to be alive</li>
+</ol>
+<h3 id="pickups">Pickups</h3>
+<h4 id="base-item-class">Base Item Class</h4>
+<p>All pickups inherit from it, it provides:</p>
+<ul>
+<li>a collision box</li>
+<li>a mesh</li>
+<li>a particle component</li>
+<li>BeginPlay function with delegates for BeginOverlap and EndOverlap</li>
+<li>Tick function</li>
+<li>OnOverlapBegin Delegate function that handles spawning particles</li>
+</ul>
+<h4 id="explosive-pickup">Explosive “Pickup”</h4>
+<p>When the player interacts with the explosive, the player takes damage. Damage<br />
+function is called OnOverlapBegin and is using a custom DecreaseHealth() function instead<br />
+of using the provided apply/take damage functions by UGameplayStatistics. After the<br />
+damage to the player has been dealt the object is destroyed.</p>
+<h4 id="health-potion-pickup">Health Potion Pickup</h4>
+<p>Functionally very similar to the Explosive, but instead of dealing damage in the<br />
+OnOverlapBegin delegate, it gets the player’s current Health and adds the healing amount to<br />
+it using the player SetCurrentHealth() function.</p>
+<h4 id="mana-potion-pickup">Mana Potion Pickup</h4>
+<p>The same as the Health Potion Pickup, but instead of getting the player’s current<br />
+Health, it gets the player’s current Mana and adds the Mana potion amount to it using the<br />
+player’s SetCurrentMana() function</p>
+<h4 id="mana-regen-buff-pickup">Mana Regen Buff Pickup</h4>
+<p>This pickup changes the player’s Mana status enum state using the SetManaStatus()<br />
+function in the OnOverlapBegin() delegate. That changes the state of the player’s mana regen<br />
+from the normal passive amount to 5 times the passive amount for 2 seconds. When that<br />
+period runs out, the player’s mana status is changed back to normal. All of that is controlled<br />
+in the player class</p>
+<h3 id="enemy">Enemy</h3>
+<p>Description:<br />
+A basic enemy used to test spells dealing damage, as well as the player taking<br />
+damage. Poor bear has sacrificed many lives for the greater cause of testing the developer’s mechanics.</p>
+<p>Requirements:</p>
+<ol>
+<li>The Enemy has an Aggro range, when the player enters it, the enemy starts chasing<br />
+the player until said player leaves the aggro range.</li>
+<li>The Enemy has a Combat range, when the player enters it, the enemy attacks at the<br />
+player and attempts to hit him</li>
+</ol>
+<h3 id="hud">HUD</h3>
+<p>Description:<br />
+The Heads Up Display actively displays the player’s current/max Health/Mana. Both<br />
+in numeric values and in Diablo-esque looking Orbs. The Ability toolbar showcases the<br />
+keybindings for the available spells as well as the developer’s writing skills using a mouse.<br />
+The Cooldown for the Rock Burst Ability is displayed via an AddOnScreenDebugMessage()<br />
+because the process of laying out elements on the HUD blueprint does not like to cooperate.<br />
+Some elements appear off-screen in the blueprint, yet in game they are where they are<br />
+expected to be.</p>
+<h3 id="coding-standards">Coding Standards</h3>
+<p>For the majority of the project the developer has stuck as close as possible to the<br />
+Unreal Engine 4 coding standard.<br />
+The code has been written with clarity and simplicity in mind first, allowing the<br />
+systems to be as flexible and available as possible.</p>
+<h2 id="conclusion-and-reflection">Conclusion and Reflection</h2>
+<p>Overall I am happy with the project. It serves as a good template for future projects<br />
+and systems similar to the ones implemented. The mechanics/systems were made with<br />
+flexibility in code in mind. If I want to create a new spell I have most of the basic tools<br />
+needed already set up. If I want to connect something to one of the resources I can easily add<br />
+that as well. The issue though is scalability in a way. The thing I wanted to improve, but<br />
+lacked the time, was make the systems more modular, even splitting the systems into components.<br />
+Separate the different verifications in<br />
+the Tick function into separate functions which could also be more reusable. There is some<br />
+duplicate logic which could be taken out into functions as well. A shortcoming which I did<br />
+not predict was just the huge size of the project and how importing assets into the project<br />
+messes with the file organisation. I tried to organise it somewhat sensibly, but there is a lot<br />
+more to wish on that front. Another thing I did not expect was just the HUD widgets. As I<br />
+mentioned earlier in the report, it makes no sense, the text fields are shown out of the canvas<br />
+in the HUD blueprint, but in game they are in place. Tweaking the positions for the text and<br />
+HP/Mana orbs was just trial and error. Move them a bit to the right, compile, press Play and<br />
+see if it’s where I want it.</p>
+<p>As with any project a developer is never fully satisfied, I can always improve the code<br />
+structure, I can always make the flow of the data easier to follow, track and… flow. I can<br />
+always optimize just one more thing.</p>
 
     </article>
     
@@ -2199,11 +2337,11 @@ and Path of Exile served as inspiration. The mechanic is made up of several comp
         </li>
         
         <li>
-          <a href="/posts/opengl/" class="related__link">OpenGL Scene</a>
+          <a href="/posts/asteroids/" class="related__link">Asteroids</a>
         </li>
         
         <li>
-          <a href="/posts/asteroids/" class="related__link">Asteroids</a>
+          <a href="/posts/opengl/" class="related__link">OpenGL Scene</a>
         </li>
         
         <li>
@@ -2587,7 +2725,30 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#summary">Summary</a></li>
+    <li><a href="#purpose">Purpose</a>
+      <ul>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#spells">Spells</a>
+          <ul>
+            <li><a href="#vortex">“Vortex”</a></li>
+            <li><a href="#rock-burst">“Rock Burst”</a></li>
+          </ul>
+        </li>
+        <li><a href="#pickups">Pickups</a>
+          <ul>
+            <li><a href="#base-item-class">Base Item Class</a></li>
+            <li><a href="#explosive-pickup">Explosive “Pickup”</a></li>
+            <li><a href="#health-potion-pickup">Health Potion Pickup</a></li>
+            <li><a href="#mana-potion-pickup">Mana Potion Pickup</a></li>
+            <li><a href="#mana-regen-buff-pickup">Mana Regen Buff Pickup</a></li>
+          </ul>
+        </li>
+        <li><a href="#enemy">Enemy</a></li>
+        <li><a href="#hud">HUD</a></li>
+        <li><a href="#coding-standards">Coding Standards</a></li>
+      </ul>
+    </li>
+    <li><a href="#conclusion-and-reflection">Conclusion and Reflection</a></li>
   </ul>
 </nav>
   </div>

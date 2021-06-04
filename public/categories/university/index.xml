@@ -79,11 +79,11 @@
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
         <guid>https://devpilgrim.com/posts/gameplaymechanic_unreal/</guid>
-        <description>Summary The mechanics I have implemented is a player resource (Health/Mana) management and
-manipulation mechanic in similar fashion to MMORPG/ARPG/MOBA etc games. Diablo
-and Path of Exile served as inspiration. The mechanic is made up of several components:
-  Health system, where:
- Taking damage causes the player to lose HP Picking up HP Potions recovers Player HP Easy access to HP values    Mana system, where:</description>
+        <description>Purpose More often than not if you play a game today there will be some form of resource
+management system and/or a cost associated with your actions. If you want to cast a spell,
+you will most likely need some form of Energy/Mana/Rage etc. If you want to construct a
+building, you will most likely need Wood, Stone, Gold or any other resource decided on by
+the developers. Even Cooldowns are a form of resource management, they help balance high</description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
         <media:content url="https://devpilgrim.com//PostImages/cmp302_unreal/banner.png" medium="image"><media:title type="html">featured image</media:title></media:content>
