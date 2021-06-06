@@ -9,7 +9,7 @@ enableToc: true
 enableTocContent: false
 author: Hristo Vuchev
 authorEmoji: 👻
-image: /PostImages/wizard_dodge/begin/png
+image: /PostImages/wizard_dodge/begin.png
 tags: 
 - mechanic
 - cpp
