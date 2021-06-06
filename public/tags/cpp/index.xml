@@ -69,54 +69,6 @@
       </item>
       
       <item>
-        <title>Wizard Dodge - First Published Game</title>
-        <link>https://devpilgrim.com/posts/wizard_dodge/</link>
-        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
-        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
-        <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
-        <guid>https://devpilgrim.com/posts/wizard_dodge/</guid>
-        <description>Purpose This project has a very simple goal - publish a game. Up until this project I had learned and developed how to create individual systems and mechanics, never a full game. I had tried before, but I went into rabbit holes of creating and coding the mechanic and adding more and more stuff, thus the goal of this project was to keep it very simple in order to avoid overdeveloping mechanics and never actually publishing the project.</description>
-        
-        <dc:creator>Hristo Vuchev</dc:creator>
-        <media:content url="https://devpilgrim.com//PostImages/wizard_dodge/begin.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>mechanic</category>
-            
-          
-            
-              <category>cpp</category>
-            
-          
-        
-        
-          
-            
-              <category>unity</category>
-            
-          
-            
-              <category>personal</category>
-            
-          
-        
-        
-          
-            
-              <category>Personal Projects</category>
-            
-          
-            
-              <category>Published</category>
-            
-          
-        
-      </item>
-      
-      <item>
         <title>Networking with Asteroids</title>
         <link>https://devpilgrim.com/posts/asteroids_networked/</link>
         <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>

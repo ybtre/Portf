@@ -11,8 +11,7 @@ author: Hristo Vuchev
 authorEmoji: 👻
 image: /PostImages/wizard_dodge/begin.png
 tags: 
-- mechanic
-- cpp
+- c_sharp
 categories:
 - unity
 - personal
