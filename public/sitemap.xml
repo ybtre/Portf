@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://devpilgrim.com/posts/wizard_dodge/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://devpilgrim.com/posts/gameplaymechanic_unreal/</loc>
     <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
@@ -53,7 +58,22 @@
   </url>
   
   <url>
+    <loc>https://devpilgrim.com/categories/personal/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/personal-projects/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://devpilgrim.com/posts/</loc>
+    <lastmod>2021-04-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devpilgrim.com/series/published/</loc>
     <lastmod>2021-04-01T12:00:06+09:00</lastmod>
   </url>
   
@@ -109,16 +129,6 @@
   
   <url>
     <loc>https://devpilgrim.com/posts/objectpooling/</loc>
-    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/categories/personal/</loc>
-    <lastmod>2020-12-19T11:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devpilgrim.com/series/personal-projects/</loc>
     <lastmod>2020-12-19T11:00:06+09:00</lastmod>
   </url>
   

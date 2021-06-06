@@ -73,6 +73,54 @@
       </item>
       
       <item>
+        <title>First Published Game</title>
+        <link>https://devpilgrim.com/posts/wizard_dodge/</link>
+        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        <atom:modified>Thu, 01 Apr 2021 12:00:06 +0900</atom:modified>
+        <guid>https://devpilgrim.com/posts/wizard_dodge/</guid>
+        <description>Purpose </description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        <media:content url="https://devpilgrim.com//PostImages/wizard_dodge/begin/png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>mechanic</category>
+            
+          
+            
+              <category>cpp</category>
+            
+          
+        
+        
+          
+            
+              <category>unity</category>
+            
+          
+            
+              <category>personal</category>
+            
+          
+        
+        
+          
+            
+              <category>Personal Projects</category>
+            
+          
+            
+              <category>Published</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Object Pooling - Deep Dive</title>
         <link>https://devpilgrim.com/posts/objectpooling/</link>
         <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>

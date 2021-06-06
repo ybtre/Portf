@@ -21,12 +21,12 @@
 
       
       <item>
-        <title>University Projects</title>
-        <link>https://devpilgrim.com/series/university-projects/</link>
+        <title>Personal Projects</title>
+        <link>https://devpilgrim.com/series/personal-projects/</link>
         <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>https://devpilgrim.com/series/university-projects/</guid>
+        <guid>https://devpilgrim.com/series/personal-projects/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
@@ -39,12 +39,30 @@
       </item>
       
       <item>
-        <title>Personal Projects</title>
-        <link>https://devpilgrim.com/series/personal-projects/</link>
-        <pubDate>Sat, 19 Dec 2020 11:00:06 +0900</pubDate>
+        <title>Published</title>
+        <link>https://devpilgrim.com/series/published/</link>
+        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
         <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
         
-        <guid>https://devpilgrim.com/series/personal-projects/</guid>
+        <guid>https://devpilgrim.com/series/published/</guid>
+        <description></description>
+        
+        <dc:creator>Hristo Vuchev</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>University Projects</title>
+        <link>https://devpilgrim.com/series/university-projects/</link>
+        <pubDate>Thu, 01 Apr 2021 12:00:06 +0900</pubDate>
+        <author>vuchev7892@gmail.com (Hristo Vuchev)</author>
+        
+        <guid>https://devpilgrim.com/series/university-projects/</guid>
         <description></description>
         
         <dc:creator>Hristo Vuchev</dc:creator>
